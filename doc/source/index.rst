@@ -55,3 +55,21 @@ lists below, or by attending one of the IRC meetings.
 This group is open to all members of the scientific OpenStack
 community and supporting vendors.
 
+Documents
+=========
+
+The Scientific Working Group maintains a guide to meeting the requirements of
+scientific computing workloads on OpenStack, titled
+*The Crossroads of Cloud and HPC: OpenStack for Scientific Research*.
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   openstack-and-virtualised-hpc
+   openstack-and-hpc-network
+   openstack-and-hpc-infrastructure
+   openstack-and-hpc-workloads
+   openstack-and-high-performance-data
+
