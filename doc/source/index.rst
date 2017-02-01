@@ -72,4 +72,5 @@ Contents:
    openstack-and-hpc-infrastructure
    openstack-and-hpc-workloads
    openstack-and-high-performance-data
+   openstack-and-federated-identity
 
