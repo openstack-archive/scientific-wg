@@ -113,7 +113,7 @@ Further Reading
 ===============
 
 * The INDIGO Identity and Access Management (IAM) service: https://github.com/indigo-iam/iam
-* INDIGO Keystone OpenID-Connect integration guide: https://www.gitbook.com/book/indigo-dc/openid-keystone
+* INDIGO Keystone OpenID-Connect integration guide: https://github.com/indigo-dc/openid-keystone-doc
 * ...
 
 Acknowledgements
