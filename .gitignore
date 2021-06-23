@@ -1,7 +1,0 @@
-doc/build/
-.tox/
-.idea
-AUTHORS
-ChangeLog
-.testrepository/
-*.pyc
